@@ -47,7 +47,7 @@ h1{
     background-color: white;
     box-shadow: 10px 10px 10px 10px lightgray;
     width: 50%;
-    padding: 20px;
+    padding: 30px;
     margin: 20px;
 }
 #orange{
@@ -58,4 +58,6 @@ h1{
 }
 footer {
     text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
 }
